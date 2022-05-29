@@ -3,6 +3,10 @@
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-color: aqua;
+}
+
 .claim{
 margin: auto;
 width: 60%;
